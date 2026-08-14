@@ -1,0 +1,6 @@
+{
+  "name": "Chess of the Lost Realm",
+  "description": "A cinematic 3D fantasy chess adventure featuring living piece characters, epic elemental realms, story campaign chronicles, and AI realm lore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
